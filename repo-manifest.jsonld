@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/shapely/shapely-rfc/commit/0946328ec1c72e235d7562ddb151bfbe0acc3763",
       "git:hexsha": "0946328ec1c72e235d7562ddb151bfbe0acc3763",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:08:48.141816+00:00"
     }
   ]
 }
