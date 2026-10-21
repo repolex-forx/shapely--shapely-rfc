@@ -1,0 +1,11 @@
+{
+  "org": "shapely",
+  "repo": "shapely-rfc",
+  "versions": [
+    {
+      "commit": "0946328ec1c72e235d7562ddb151bfbe0acc3763",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:08:48.142215+00:00"
+    }
+  ]
+}
