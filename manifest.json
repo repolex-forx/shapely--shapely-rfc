@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "shapely",
+  "repo": "shapely-rfc",
+  "versions": [
+    {
+      "commit": "0946328ec1c72e235d7562ddb151bfbe0acc3763",
+      "parsed_at": "2026-10-21T03:06:10.990713+00:00",
+      "filetree": "filetree/0946328ec1c72e235d7562ddb151bfbe0acc3763.nq.gz",
+      "blobs": [
+        "blob/01b8644f13ac92f9cd22e9d4e3a81a731d47884b.nq.gz",
+        "blob/9f8eb877018d4198aa51aa0c7754aa1a86e6b95d.nq.gz",
+        "blob/d88235366ecba712307184b549a87b12523cccb4.nq.gz",
+        "blob/bec311f1779a122fee455f7c0903faee35847864.nq.gz",
+        "blob/44567f4b3426d0c3359ac3efee65b6f1b6767291.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
